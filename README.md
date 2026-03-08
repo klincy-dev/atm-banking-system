@@ -18,7 +18,7 @@ A secure ATM simulation system built using Python.
 - Python
 - JSON Database
 
-- ## How to Run
+ ## How to Run
 
 1. Clone the repository
 
